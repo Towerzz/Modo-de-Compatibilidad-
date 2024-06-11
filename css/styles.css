@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: auto;
+    padding: 2em;
+}
+
+/* Estilos para encabezados */
+h1 {
+    color: white;
+}
+
+/* Estilos para filas */
+.row {
+    padding: 1rem;
+}
+
+/* Estilos para las barras */
+.barra {
+    background-color: #FF266E;
+}
+
+/* Estilos para las cajas con borde */
+.cajaBorde {
+    border-style: solid;
+    border-color: #FF266E;
+    height: 30vh;
+}
